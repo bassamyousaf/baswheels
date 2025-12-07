@@ -22,6 +22,3 @@ Short instructions: place your live-run screenshots in the images/ folder (or up
 |---:|:---:|:---:|
 | ![alt text](image-9.png) | ![alt text](image-10.png) | ![alt text](image-11.png) | ![alt text](image-12.png) | ![alt text](image-13.png) | ![alt text](image-14.png)
 
-Notes:
-- Replace the image paths (images/...) with your actual screenshot paths if different.
-- If you prefer a different layout, adjust the table columns or use plain image links.
