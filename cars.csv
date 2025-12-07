@@ -1,8 +1,0 @@
-id,make_model,price_pkr,is_new,fuel_type,trunk_liters,seats,fuel_economy_kmpl,suitability_tags,reliability_rating,notes
-1,Toyota Corolla 1.6,5000000,yes,petrol,470,5,12,"family,commute",4,"Good trunk space; comfortable"
-2,Suzuki Vitz 1.0,2600000,yes,petrol,250,5,18,"family,commute",3,"Efficient but small trunk"
-3,Honda Civic 1.8,6200000,yes,petrol,430,5,11,"family,commute,luxury",4,"Modern cabin"
-4,Toyota Prius Hybrid,9000000,yes,hybrid,400,5,25,"commute,fuel_saver",4,"Excellent fuel economy"
-5,Hyundai Palisade,12000000,yes,petrol,714,7,8,"family,roadtrip",4,"Large; 7 seats"
-6,Nissan Kicks (used),3500000,no,petrol,450,5,13,"commute,family",3,"Good balance used model"
-7,MG ZS EV,6500000,yes,ev,480,5,0,"commute,family",3,"EV; instant torque, charging needed"
