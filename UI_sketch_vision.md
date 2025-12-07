@@ -13,15 +13,14 @@ Short instructions: place your live-run screenshots in the images/ folder (or up
 
 ## Future version of project
 
-Short instructions: use these placeholders to add conceptual or upcoming UI screenshots.
 
 | Future 01 | Future 02 | Future 03 |
 |---:|:---:|:---:|
-| ![Future 01](images/future-01.png) | ![Future 02](images/future-02.png) | ![Future 03](images/future-03.png) |
+| ![alt text](image-6.png) | ![alt text](image-7.png) | ![alt text](image-8.png) |
 
-| Future 04 | Future 05 | Future 06 |
+| Future 04 | Future 05 | Future 06 |  Future 07 | Future 08
 |---:|:---:|:---:|
-| ![Future 04](images/future-04.png) | ![Future 05](images/future-05.png) | ![Future 06](images/future-06.png) |
+| ![alt text](image-9.png) | ![alt text](image-10.png) | ![alt text](image-11.png) | ![alt text](image-12.png) | ![alt text](image-13.png) | ![alt text](image-14.png)
 
 Notes:
 - Replace the image paths (images/...) with your actual screenshot paths if different.
